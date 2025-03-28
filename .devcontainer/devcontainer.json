@@ -1,0 +1,19 @@
+
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+{
+	"name": "x9gg-devcontainer-base",
+	// "remoteUser": "dev",
+	"image": "x9gg/image:base",
+
+
+	// Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			"settings": {},
+			"extensions": [
+                "x9gg.x9gg-vscode-theme"
+			]
+		}
+	}
+}
