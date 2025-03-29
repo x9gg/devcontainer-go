@@ -1,9 +1,9 @@
 
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 {
-	"name": "x9gg-devcontainer-base",
+	"name": "x9gg-devcontainer-go",
 	// "remoteUser": "dev",
-	"image": "x9gg/image:base",
+	"image": "x9gg/image:go",
 
 
 	// Configure tool-specific properties.
