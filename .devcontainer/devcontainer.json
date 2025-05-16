@@ -1,0 +1,19 @@
+
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+{
+	"name": "h3xsh-devcontainer-go",
+	// "remoteUser": "dev",
+	"image": "h3xsh/image:go",
+
+
+	// Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			"settings": {},
+			"extensions": [
+                "h3xsh.h3xsh-vscode-theme"
+			]
+		}
+	}
+}
